@@ -1,7 +1,7 @@
 # rezervacije
 Jednostavan sistem rezervacija karata u C++ jeziku kao mini-projekat iz predmeta OBJ1
 
-Ispunjava sledece uslove:
+Ispunjava sledece uslove:  
 • bar 3 klase  
 • nasleđivanje  
 • statičke članove  
